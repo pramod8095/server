@@ -1,0 +1,193 @@
+{
+
+"contents":[
+
+{
+
+"id": "UUID",
+
+"title": "title",
+
+"type": "POSTER",
+
+"items":[
+
+{
+
+"id":"videoId",
+
+"title": "Hero1",
+
+"description": "Witness the power",
+
+"posterImageUrl": "imageURL",
+
+"landscapeImageUrl": "imageURL",
+
+"videoURL":"videoURL"
+
+},
+
+{
+
+"id":"videoId",
+
+"title": "Hero2",
+
+"description": "Witness the power",
+
+"posterImageUrl": "imageURL",
+
+"landscapeImageUrl": "imageURL",
+
+"videoURL":"videoURL"
+
+},
+
+{
+
+"id":"videoId",
+
+"title": "Hero3",
+
+"description": "Witness the power",
+
+"posterImageUrl": "imageURL",
+
+"landscapeImageUrl": "imageURL",
+
+"videoURL":"videoURL"
+
+}
+
+]
+
+},
+
+{
+
+"id": "UUID",
+
+"title": "title2",
+
+"type": "LANDSCAPE",
+
+"items":[
+
+{
+
+"id":"videoId",
+
+"title": "1",
+
+"description": "Witness the power",
+
+"posterImageUrl": "imageURL",
+
+"landscapeImageUrl": "imageURL",
+
+"videoURL":"videoURL"
+
+},
+
+{
+
+"id":"videoId",
+
+"title": "2",
+
+"description": "Witness the power",
+
+"posterImageUrl": "imageURL",
+
+"landscapeImageUrl": "imageURL",
+
+"videoURL":"videoURL"
+
+},
+
+{
+
+"id":"videoId",
+
+"title": "3",
+
+"description": "Witness the power",
+
+"posterImageUrl": "imageURL",
+
+"landscapeImageUrl": "imageURL",
+
+"videoURL":"videoURL"
+
+}
+
+]
+
+},
+
+{
+
+"id": "UUID",
+
+"title": "title3",
+
+"type": "LANDSCAPE",
+
+"items":[
+
+{
+
+"id":"videoId",
+
+"title": "1",
+
+"description": "Witness the power",
+
+"posterImageUrl": "imageURL",
+
+"landscapeImageUrl": "imageURL",
+
+"videoURL":"videoURL"
+
+},
+
+{
+
+"id":"videoId",
+
+"title": "2",
+
+"description": "Witness the power",
+
+"posterImageUrl": "imageURL",
+
+"landscapeImageUrl": "imageURL",
+
+"videoURL":"videoURL"
+
+},
+
+{
+
+"id":"videoId",
+
+"title": "3",
+
+"description": "Witness the power",
+
+"posterImageUrl": "imageURL",
+
+"landscapeImageUrl": "imageURL",
+
+"videoURL":"videoURL"
+
+}
+
+]
+
+}
+
+]
+
+}
